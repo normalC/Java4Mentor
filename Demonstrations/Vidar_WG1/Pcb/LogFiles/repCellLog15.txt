@@ -1,0 +1,31 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version EXP2005.1_060615.00 2005.1
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\2017\SER75015K-D2-A01\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog15.txt
+
+Fri Dec 22 14:58:45 2017
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Fri Dec 22 14:58:45 2017  ---------------
+
+
+                                (_VB_DRILL_DRAWING_)THRU          (_VB_DRILL_DRAWING_)THRU        
+                                (_VB_DRILL_SYMBOLS_)THRU          (_VB_DRILL_SYMBOLS_)THRU        
+J4                              P2500-3T-3                        P2500-3T-3                      
+J3                              P2500-3T-3                        P2500-3T-3                      
+
+
+---------------    Fri Dec 22 14:58:45 2017  ---------------
+
+

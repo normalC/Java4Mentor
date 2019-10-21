@@ -1,0 +1,5 @@
+
+Expedition PCB - Pinnacle Version: EXP2005.1_060615.00 2005.1
+
+Successfully read the design.
+Cannot Stop the Cross Probe Daemon

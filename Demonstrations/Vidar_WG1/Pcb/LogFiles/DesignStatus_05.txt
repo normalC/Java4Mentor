@@ -1,0 +1,80 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version EXP2005.1_060615.00 2005.1
+=======================================================================
+
+Job Directory:        C:\Users\Administrator\Desktop\gerbercheck\SER75015K-D2-A0\SER75015K-D2-A02\PCB\
+
+Design Status Report: C:\Users\Administrator\Desktop\gerbercheck\SER75015K-D2-A0\SER75015K-D2-A02\PCB\LogFiles\DesignStatus_05.txt
+
+Thu Oct 17 14:42:44 2019
+
+=======================================================================
+DESIGN STATUS
+=======================================================================
+Board Size Extents  ............ 30 X 75 (mm)
+Route Border Extents  .......... 29 X 74 (mm)
+Actual Board Area  ............. 2,242.2889 (mm)
+Actual Route Area  ............. 2,140.645 (mm)
+
+Placement Areas: Name            Available         Required          Required/Available
+                 Entire Board    4,484.5777 Sq. (mm)1,823.1574 Sq. (mm)40.65 %
+
+Pins  .......................... 278
+Pins per Route Area  ........... .1299 Pins/Sq. (mm)
+
+Layers  ........................ 4
+    Layer 1 is a signal layer
+        Trace Widths  .......... .25, .254, .5, 1
+    Layer 2 is a signal layer
+        Trace Widths  .......... None.
+    Layer 3 is a signal layer
+        Trace Widths  .......... .254
+    Layer 4 is a signal layer
+        Trace Widths  .......... .25, .254, .5, 1
+
+Nets  .......................... 60
+Connections  ................... 218
+Open Connections  .............. 0
+Differential Pairs  ............ 0
+Percent Routed  ................ 100.00 %
+
+Netline Length  ................ 0 (mm)
+Netline Manhattan Length  ...... 0 (mm)
+Total Trace Length  ............ 1,350.4989 (mm)
+
+Trace Widths Used (mm)  ........ .25, .254, .5, 1
+Vias  .......................... 55
+Via Span  Name                   Quantity
+   1-4    V30R16S_NULL           55
+
+Teardrops....................... 74
+Breakouts....................... 0
+
+Virtual Pins.................... 0
+Guide Pins ..................... 0
+
+Parts Placed  .................. 100
+    Parts Mounted on Top  ...... 50
+        SMD  ................... 44
+        Through  ............... 6
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Parts Mounted on Bottom  ... 50
+        SMD  ................... 45
+        Through  ............... 5
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Embedded Components ........ 0
+        Capacitors ............. 0
+        Resistors .............. 0
+    Edge Connector Parts  ...... 0
+
+Parts not Placed  .............. 0
+
+Nested Cells  .................. 0
+
+Jumpers  ....................... 0
+
+Through Holes  ................. 112
+    Holes per Board Area  ...... .0499 Holes/Sq. (mm)
+Mounting Holes  ................ 0

@@ -1,0 +1,41 @@
+ ----------------------------
+|      Drill Engine Log      |
+|          Started           |
+|  Mon Mar 18 13:36:19 2019  |
+ ----------------------------
+
+Creating Directory Output/NCDrill/
+
+Created drill file "Output/NCDrill/ThruHolePlated.ncd" for span from 1 to 4
+Total holes, contours in this file 113, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     06     0.4064                          YES     55
+     02     0.8128                          YES     30
+     01     0.9144                          YES     14
+     03     1.0160                          YES     14
+
+
+Created drill file "Output/NCDrill/ThruHoleNonPlated.ncd" for span from 1 to 4
+Total holes, contours in this file 4, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     05     2.5400                          NO      2
+     04     3.5560                          NO      2
+
+
+Created drill file "Output/NCDrill/ContourNonPlated.ncd" for span from 1 to 4
+Total holes, contours in this file 0, 14
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     07     2.0000     +0.2500 / -0.0000    NO      14
+
+
+ ----------------------------
+|      Drill Engine Log      |
+|          Finished          |
+|  Mon Mar 18 13:36:19 2019  |
+ ----------------------------

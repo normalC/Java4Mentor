@@ -1,0 +1,41 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version EXP2005.1_060615.00 2005.1
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  Z:\Sinexcel Lib\LayoutTemplates\Layer 2\
+
+
+Design Units:(th)
+
+Replace Cell Log:   repCellLog02.txt
+
+Fri Aug 03 17:31:33 2012
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Fri Aug 03 17:31:33 2012  ---------------
+
+
+                                SINEXCEL-16x2                     SINEXCEL-16x2                   
+                                BAR21-6S                          BAR21-6S                        
+                                A3                                A3                              
+                                DESIGN_RECORD                     DESIGN_RECORD                   
+
+
+---------------    Fri Aug 03 17:31:33 2012  ---------------
+
+
+
+
+---------------    Fri Aug 03 17:31:54 2012  ---------------
+
+
+
+
+---------------    Fri Aug 03 17:32:07 2012  ---------------
+
+

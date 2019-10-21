@@ -1,0 +1,116 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version EXP2005.1_060615.00 2005.1
+=======================================================================
+
+Job Directory:    F:\2016\SER75015K\SER75015K-D1\SER75015K-D1\PCB\
+
+
+Design Units:(mm)
+
+Test Point Log:   F:\2016\SER75015K\SER75015K-D1\SER75015K-D1\PCB\LogFiles\testptlog_00.txt
+
+Fri Jun 24 10:29:25 2016
+
+Net Name        Ref                  X          Y     Side    Location        Operation Result
+==============================================================================================
++3.3V_DC        TP1                    .89     -27.43 Bottom  Hanger          Add       Failed    
++3.3V_DC        TP1                   1.14     -26.92 Bottom  Hanger          Add       Failed    
++3.3V_DC        TP1                 -10.16      -26.8 Bottom  Hanger          Add       Failed    
++3.3V_DC        TP1                  -9.91     -26.16 Bottom  Hanger          Add       Failed    
++3.3V_DC        TP1                  -9.78     -25.91 Bottom  Hanger          Add       Failed    
++3.3V_DC        TP1                  11.56     -27.18 Bottom  Hanger          Add       Failed    
++3.3V_DC        TP1                  11.81     -26.67 Bottom  Hanger          Add       Failed    
++3.3V_DC        TP1                  11.94     -26.54 Bottom  Hanger          Add       Failed    
++3.3V_DC        TP1                   3.05     -54.74 Bottom  Hanger          Add       Failed    
+A               TP1                  -9.27     -32.13 Bottom  Hanger          Add       Failed    
+A               TP1                  -9.65     -32.51 Bottom  Hanger          Add       Failed    
+A               TP1                  -9.02     -27.31 Bottom  Hanger          Add       Failed    
+A               TP1                     -8     -21.84 Bottom  Hanger          Add       Failed    
+AGND            TP1                   5.46     -36.07 Bottom  Hanger          Add       Failed    
+AGND            TP1                   5.97     -36.58 Bottom  Hanger          Add       Failed    
+AGND            TP1                    1.4        -24 Bottom  Hanger          Add       Failed    
+AGND            TP1                  -9.27     -21.59 Bottom  Hanger          Add       Failed    
+AGND            TP1                  -9.78     -21.72 Bottom  Hanger          Add       Failed    
+AGND            TP1                  12.57     -23.75 Bottom  Hanger          Add       Failed    
+AGND            TP1                 -10.03     -21.84 Bottom  Hanger          Add       Failed    
+AGND            TP1                  -3.68      -5.33 Bottom  Hanger          Add       Failed    
+AGND            TP1                  -3.81       -4.7 Bottom  Hanger          Add       Failed    
+AGND            TP1                  -8.76      -5.33 Bottom  Hanger          Add       Failed    
+AGND            TP1                  -8.89       -4.7 Bottom  Hanger          Add       Failed    
+AGND            TP1                 -13.84      -5.21 Bottom  Hanger          Add       Failed    
+AGND            TP1                 -13.97      -4.57 Bottom  Hanger          Add       Failed    
+B               TP1                  -8.51     -28.19 Bottom  Hanger          Add       Failed    
+B_LED           TP1                  -4.19      -9.14 Bottom  Hanger          Add       Failed    
+B_LED           TP1                   -4.7      -9.02 Bottom  Hanger          Add       Failed    
+C               TP1                  -7.37     -32.51 Bottom  Hanger          Add       Failed    
+C               TP1                  -7.62     -32.13 Bottom  Hanger          Add       Failed    
+C               TP1                     -8      -30.1 Bottom  Hanger          Add       Failed    
+COM1            TP1                    3.3     -34.16 Bottom  Trace           Add       Succeeded  
+COM2            TP2                  -10.8     -32.13 Bottom  Hanger          Add       Failed    
+COM2            TP2                 -12.32     -37.72 Bottom  Hanger          Add       Failed    
+COM2            TP2                  -11.3     -27.69 Bottom  Hanger          Add       Failed    
+COM2            TP2                 -13.97     -44.96 Bottom  Hanger          Add       Failed    
+COM2            TP2                  -11.3      -25.4 Bottom  Hanger          Add       Failed    
+COM2            TP2                 -11.94      -25.4 Bottom  Hanger          Add       Failed    
+COM2            TP2                 -12.07     -25.27 Bottom  Hanger          Add       Failed    
+COM2            TP2                 -11.68     -51.31 Bottom  Trace           Add       Succeeded  
+COM3            TP3                  -1.91      -25.4 Bottom  Trace           Add       Succeeded  
+D               TP4                  -3.81     -31.62 Bottom  Trace           Add       Succeeded  
+DISPLAY_CLK     TP5                  -4.95     -32.26 Bottom  Hanger          Add       Failed    
+DISPLAY_CLK     TP5                  -7.87     -35.31 Bottom  Hanger          Add       Failed    
+DISPLAY_CLK     TP5                 -11.05     -38.35 Bottom  Hanger          Add       Failed    
+DISPLAY_CLK     TP5                  -4.95     -25.65 Bottom  Hanger          Add       Failed    
+DISPLAY_CLK     TP5                  -3.17     -17.27 Bottom  Hanger          Add       Failed    
+DISPLAY_CLK     TP5                   -1.4     -14.61 Bottom  Hanger          Add       Failed    
+DISPLAY_KEY     TP5                      0     -38.73 Bottom  Trace           Add       Succeeded  
+E               TP6                 -13.84     -31.75 Bottom  Hanger          Add       Failed    
+E               TP6                 -13.59     -30.86 Bottom  Hanger          Add       Failed    
+E               TP6                 -13.46     -29.59 Bottom  Hanger          Add       Failed    
+E               TP6                 -13.97     -27.94 Bottom  Hanger          Add       Failed    
+E_TEMP          TP6                   8.51     -34.92 Bottom  Hanger          Add       Failed    
+E_TEMP          TP6                   8.13     -33.91 Bottom  Trace           Add       Succeeded  
+F               TP7                 -12.83     -30.23 Bottom  Hanger          Add       Failed    
+F               TP7                 -13.08     -27.81 Bottom  Hanger          Add       Failed    
+F               TP7                 -13.46     -25.53 Bottom  Hanger          Add       Failed    
+FAN1_BAD        TP7                  10.67     -60.83 Bottom  Trace           Add       Succeeded  
+FAN1_BAD_DSP    TP8                   7.87     -46.48 Bottom  Hanger          Add       Failed    
+FAN1_BAD_DSP    TP8                   9.02     -46.23 Bottom  Trace           Add       Succeeded  
+FAN_GND         TP9                    .76     -67.06 Bottom  Hanger          Add       Failed    
+FAN_GND         TP9                    .76     -67.69 Bottom  Hanger          Add       Failed    
+FAN_GND         TP9                    .76     -67.82 Bottom  Hanger          Add       Failed    
+FAN_GND         TP9                    .76     -68.07 Bottom  Hanger          Add       Failed    
+FAN_GND         TP9                   1.91     -70.74 Bottom  Hanger          Add       Failed    
+FAN_GND         TP9                   2.16     -71.88 Bottom  Hanger          Add       Failed    
+FAN_GND         TP9                   4.45     -72.01 Bottom  Hanger          Add       Failed    
+G               TP9                 -11.81     -30.35 Bottom  Trace           Add       Succeeded  
+G_LED           TP10                 -7.11     -13.34 Bottom  Hanger          Add       Failed    
+G_LED           TP10                 -4.45     -11.18 Bottom  Trace           Add       Succeeded  
+R_LED           TP11                 -5.84     -13.72 Bottom  Hanger          Add       Failed    
+R_LED           TP11                 -7.37      -14.1 Bottom  Hanger          Add       Failed    
+R_LED           TP11                 -5.46     -13.34 Bottom  Hanger          Add       Failed    
+R_LED           TP11                -10.41     -12.32 Bottom  Trace           Add       Succeeded  
+VFAN            TP12                  4.57     -62.99 Bottom  Hanger          Add       Failed    
+VFAN            TP12                  4.57      -63.5 Bottom  Hanger          Add       Failed    
+XSIG010001      TP12                 -8.26     -34.92 Bottom  Hanger          Add       Failed    
+XSIG010001      TP12                -11.05     -37.47 Bottom  Hanger          Add       Failed    
+XSIG010001      TP12                -12.19     -38.35 Bottom  Hanger          Add       Failed    
+XSIG010001      TP12                 -5.71     -25.65 Bottom  Hanger          Add       Failed    
+XSIG010001      TP12                -13.21     -40.01 Bottom  Hanger          Add       Failed    
+XSIG010001      TP12                 -4.06     -17.27 Bottom  Hanger          Add       Failed    
+XSIG010001      TP12                 -2.41     -14.73 Bottom  Hanger          Add       Failed    
+XSIG010009      TP12                -14.73     -40.77 Bottom  Hanger          Add       Failed    
+XSIG010024      TP12                 -2.16      -5.33 Bottom  Hanger          Add       Failed    
+XSIG010024      TP12                 -1.91       -4.7 Bottom  Hanger          Add       Failed    
+XSIG010027      TP12                -12.32      -5.21 Bottom  Hanger          Add       Failed    
+XSIG010027      TP12                -12.19      -4.57 Bottom  Hanger          Add       Failed    
+XSIG010030      TP12                 -7.24      -5.33 Bottom  Hanger          Add       Failed    
+XSIG010030      TP12                 -7.11       -4.7 Bottom  Hanger          Add       Failed    
+XSIG010033      TP12                     0     -51.31 Bottom  Trace           Add       Succeeded  
+XSIG010070      TP13                 11.68     -19.56 Bottom  Hanger          Add       Failed    
+XSIG010070      TP13                 11.68     -19.18 Bottom  Hanger          Add       Failed    
+XSIG010071      TP13                -10.16     -19.68 Bottom  Hanger          Add       Failed    
+XSIG010071      TP13                -10.03     -19.05 Bottom  Hanger          Add       Failed    
+XSIG010087      TP13                 -1.02     -23.88 Bottom  Hanger          Add       Failed    
+XSIG010094      TP13                     0     -43.31 Bottom  Trace           Add       Succeeded  
+XSIG010172      TP14                   .13     -60.33 Bottom  Hanger          Add       Failed    
+XSIG010175      TP14                  -1.4     -56.01 Bottom  Trace           Add       Succeeded  

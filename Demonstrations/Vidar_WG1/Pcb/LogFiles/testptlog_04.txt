@@ -1,0 +1,16 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version EXP2005.1_060615.00 2005.1
+=======================================================================
+
+Job Directory:    F:\2016 work\SER75015K-D2-1.0\PCB\
+
+
+Design Units:(mm)
+
+Test Point Log:   F:\2016 work\SER75015K-D2-1.0\PCB\LogFiles\testptlog_04.txt
+
+Fri Nov 18 11:49:31 2016
+
+Net Name        Ref                  X          Y     Side    Location        Operation Result
+==============================================================================================
+XSIG010183      TP50                 27.05     -53.21 Bottom  Hanger          Remove              

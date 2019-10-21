@@ -1,0 +1,74 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version EXP2005.1_060615.00 2005.1
+=======================================================================
+
+Job Directory:        F:\2015\CH-AC-D2\PCB\
+
+Design Status Report: F:\2015\CH-AC-D2\PCB\LogFiles\DesignStatus_00.txt
+
+Tue Oct 20 15:23:19 2015
+
+=======================================================================
+DESIGN STATUS
+=======================================================================
+Board Size Extents  ............ 45 X 9 (mm)
+Route Border Extents  .......... 43 X 8 (mm)
+Actual Board Area  ............. 397.29 (mm)
+Actual Route Area  ............. 344 (mm)
+
+Placement Areas: Name            Available         Required          Required/Available
+                 Entire Board    794.58 Sq. (mm)   295.56 Sq. (mm)   37.20 %
+
+Pins  .......................... 14
+Pins per Route Area  ........... .04 Pins/Sq. (mm)
+
+Layers  ........................ 2
+    Layer 1 is a signal layer
+        Trace Widths  .......... 1
+    Layer 2 is a signal layer
+        Trace Widths  .......... None.
+
+Nets  .......................... 5
+Connections  ................... 7
+Open Connections  .............. 0
+Differential Pairs  ............ 0
+Percent Routed  ................ 100.00 %
+
+Netline Length  ................ 0 (mm)
+Netline Manhattan Length  ...... 0 (mm)
+Total Trace Length  ............ 42.24 (mm)
+
+Trace Widths Used (mm)  ........ 1
+Vias  .......................... 0
+
+Teardrops....................... 0
+Breakouts....................... 0
+
+Virtual Pins.................... 0
+Guide Pins ..................... 0
+
+Parts Placed  .................. 8
+    Parts Mounted on Top  ...... 5
+        SMD  ................... 5
+        Through  ............... 0
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Parts Mounted on Bottom  ... 3
+        SMD  ................... 0
+        Through  ............... 3
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Embedded Components ........ 0
+        Capacitors ............. 0
+        Resistors .............. 0
+    Edge Connector Parts  ...... 0
+
+Parts not Placed  .............. 0
+
+Nested Cells  .................. 0
+
+Jumpers  ....................... 0
+
+Through Holes  ................. 2
+    Holes per Board Area  ...... .01 Holes/Sq. (mm)
+Mounting Holes  ................ 0

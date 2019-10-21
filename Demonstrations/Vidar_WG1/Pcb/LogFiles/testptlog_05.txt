@@ -1,0 +1,67 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version EXP2005.1_060615.00 2005.1
+=======================================================================
+
+Job Directory:    F:\2016\SER75015K-D2-1.0\SER75015K-D2-1.0\PCB\
+
+
+Design Units:(mm)
+
+Test Point Log:   F:\2016\SER75015K-D2-1.0\SER75015K-D2-1.0\PCB\LogFiles\testptlog_05.txt
+
+Sun Nov 27 15:21:38 2016
+
+Net Name        Ref                  X          Y     Side    Location        Operation Result
+==============================================================================================
+XSIG010027      TP39                 39.24     -54.95 Bottom  Hanger          Remove              
+XSIG010167      TP33                 57.01     -52.23 Bottom  Hanger          Remove              
+XSIG010172      TP34                 61.96     -52.23 Bottom  Hanger          Remove              
+VFAN            TP15                 57.66     -75.18 Bottom  Hanger          Remove              
+XSIG010282      TP22                 33.15     -65.02 Bottom  Hanger          Remove              
+FAN_GND         TP17                 60.83     -74.68 Bottom  Hanger          Remove              
+XSIG010033      TP12                 66.67     -49.66 Bottom  Hanger          Remove              
+XSIG010278      TP21                 43.33      -56.8 Bottom  Hanger          Remove              
+FAN1_BAD_DSP    TP8                  54.78     -57.03 Bottom  Hanger          Remove              
+FAN2_BAD_DSP    TP19                 51.45      -56.8 Bottom  Hanger          Remove              
+XSIG010030      TP38                 36.83     -50.12 Bottom  Hanger          Remove              
+COM2            TP2                  47.74     -55.84 Bottom  Hanger          Remove              
+XSIG010281      TP24                 38.73     -58.17 Bottom  Hanger          Remove              
+E_TEMP          TP6                  32.89     -61.09 Bottom  Hanger          Remove              
+VCC5            TP18                 35.05     -54.99 Bottom  Hanger          Remove              
+XSIG010094      TP13                 69.22       7.75 Bottom  Hanger          Remove              
+XSIG010042      TP53                 26.68      29.82 Bottom  Hanger          Remove              
+XSIG010040      TP51                 26.55      26.01 Bottom  Hanger          Remove              
+AGND            TP23                 46.12      14.96 Bottom  Hanger          Remove              
+XSIG010045      TP56                 55.27      25.35 Bottom  Hanger          Remove              
+XSIG010009      TP49                  55.4      22.81 Bottom  Hanger          Remove              
+XSIG010041      TP52                 58.06      25.23 Bottom  Hanger          Remove              
+XSIG010043      TP54                 59.14       29.4 Bottom  Hanger          Remove              
+DISPLAY_MO      TP47                 46.06      20.17 Bottom  Hanger          Remove              
+XSIG010072      TP44                 42.28      28.32 Bottom  Hanger          Remove              
+C               TP26                 54.87      16.16 Bottom  Hanger          Remove              
+H               TP25                 58.17       8.28 Bottom  Hanger          Remove              
+XSIG010046      TP55                 52.35      24.59 Bottom  Hanger          Remove              
+XSIG010044      TP57                 52.22      27.39 Bottom  Hanger          Remove              
+XSIG010087      TP43                 43.04      26.16 Bottom  Hanger          Remove              
+XSIG010070      TP58                 41.64      24.12 Bottom  Hanger          Remove              
+XSIG010089      TP59                 44.37      12.51 Bottom  Hanger          Remove              
+XSIG010001      TP48                 35.61      15.81 Bottom  Hanger          Remove              
+COM1            TP1                  57.51       12.6 Bottom  Hanger          Remove              
+A               TP28                 47.25      12.09 Bottom  Hanger          Remove              
+B               TP27                 49.79      12.22 Bottom  Hanger          Remove              
+COM3            TP45                 59.88      11.73 Bottom  Hanger          Remove              
+XSIG010088      TP42                 61.78      13.48 Bottom  Hanger          Remove              
+XSIG010071      TP41                 58.85      12.72 Bottom  Hanger          Remove              
+AGND            TP14                 46.44      -4.76 Bottom  Hanger          Remove              
+R_LED           TP40                 38.61      -1.74 Bottom  Hanger          Remove              
+DISPLAY_CLK     TP46                 36.03      -2.06 Bottom  Hanger          Remove              
+G_LED           TP36                 40.89      -2.41 Bottom  Hanger          Remove              
+E               TP30                 52.84          6 Bottom  Hanger          Remove              
+D               TP4                  57.41       3.96 Bottom  Hanger          Remove              
+B_LED           TP35                 43.74       -7.3 Bottom  Hanger          Remove              
+G               TP9                  46.41        5.4 Bottom  Hanger          Remove              
+F               TP29                 49.79       4.34 Bottom  Hanger          Remove              
+XSIG010024      TP37                 37.59       -7.2 Bottom  Hanger          Remove              
+XSIG010287      TP60                 57.54      -4.84 Bottom  Hanger          Remove              
+DISPLAY_KEY     TP5                  64.52      -1.94 Bottom  Hanger          Remove              
++3.3V_DC        TP20                 61.16       6.72 Bottom  Hanger          Remove              

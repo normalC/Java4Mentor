@@ -1,0 +1,14 @@
+Expedition PCB - Pinnacle Version: PCB2004.2_041208.1400 2004.1
+
+
+
+Environment Variables:
+----------------------
+GW2ODB_DIR = "C:\Valor\GW2ODB"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Documents and Settings\Administrator"
+MGC_HOME = "C:\MentorGraphics\MGC_HOME-2004.ixn"
+OS = "Windows_NT"
+SDD_HOME = "c:\mentorgraphics\2004"
+TEMP = "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp"
+TMP = "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp"

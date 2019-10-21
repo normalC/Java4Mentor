@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        09:30 AM Friday, October 16, 2015
+ Job Name: F:\2015\CH-AC-D2\PCB\Work\CellEditorFiles\CellDB\SCREW-M3_140 NP.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        09:30 AM Friday, October 16, 2015
+ Job Name: F:\2015\CH-AC-D2\PCB\Work\CellEditorFiles\CellDB\SCREW-M3_140 NP.pcb
+

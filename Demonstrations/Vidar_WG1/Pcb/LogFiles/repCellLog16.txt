@@ -1,0 +1,34 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version EXP2005.1_060615.00 2005.1
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  F:\2019 work\SER75015K-D2\SER75015K-D2-A02\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog16.txt
+
+Mon Mar 11 16:44:56 2019
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Mon Mar 11 16:44:56 2019  ---------------
+
+
+                                (_VB_DRILL_DRAWING_)THRU          (_VB_DRILL_DRAWING_)THRU        
+                                (_VB_DRILL_SYMBOLS_)THRU          (_VB_DRILL_SYMBOLS_)THRU        
+R10                             sr0805                            sr0805                          
+R9                              sr0805                            sr0805                          
+J2                              idc14-dtm1                        idc14-dtm1                      
+R11                             sr0805                            sr0805                          
+                                Technical_Specification_4         Technical_Specification_4       
+
+
+---------------    Mon Mar 11 16:44:56 2019  ---------------
+
+
