@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        01:54 PM Monday, October 21, 2019
+Job Name: F:\MLIA\Java4Mentor\Java4Mentor\JavaIntegration\Demonstrations\Vidar_WG\Pcb\Vidar.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        01:54 PM Monday, October 21, 2019
+Job Name: F:\MLIA\Java4Mentor\Java4Mentor\JavaIntegration\Demonstrations\Vidar_WG\Pcb\Vidar.pcb
+

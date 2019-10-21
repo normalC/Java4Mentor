@@ -1,8 +1,0 @@
-Mentor Graphics Corporation
-Cross Probe Log
-Date: Sunday 09/13/15  Time: 10:13:00
-
-XPDAEMON - RELEASE NAME=01.981129.00
-Unable to open netlist logic database: Exiting
-Is your netlist compiled?  For details on how to compile your netlist
-see "Setup - Project Integration (Forward Annotate)" or "ECO - Forward Annotate"
