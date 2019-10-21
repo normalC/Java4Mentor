@@ -1,0 +1,19 @@
+--------------------
+command line passed in is:
+cdb2bom "-project=F:\batt_test\Hardware\PCB\DetectBoard\DetectBoard\DetectBoard.prj" "-cfg=C:\MentorGraphics\ecad_library\ecad_library\cdb2bomfinal.asc" "-out=113" 
+--------------------
+
+
+
+	C D B 2 B O M  -  generate a Bill of Materials file. Version 16.2.0.2
+	(c) Copyright Mentor Graphics Corporation 2004.
+	All Rights Reserved.
+
+
+
+	Opening design 'F:\batt_test\Hardware\PCB\DetectBoard\DetectBoard\DetectBoard.cdb'...done
+done
+
+	Writing bom file 113.bom ...
+	CDB to Bom complete
+	Log file is 'DetectBoard.log'

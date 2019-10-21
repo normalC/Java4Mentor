@@ -1,0 +1,89 @@
+
+------------------------------------------------------------------------
+            Part/Reference             | Pin | Augmented Net Name
+------------------------------------------------------------------------
+ Part 39110070                         |
+       U58                             |    4| <unconnected pin>
+       U58                             |    5| <unconnected pin>
+ Part 39080070                         |
+       U27                             |    8| +12V
+       U27                             |    4| -12V
+       U26                             |    8| +12V
+       U26                             |    4| -12V
+       U25                             |    8| +12V
+       U25                             |    4| -12V
+       U24                             |    8| +12V
+       U24                             |    4| -12V
+       U23                             |    8| +12V
+       U23                             |    4| -12V
+       U22                             |    8| +12V
+       U22                             |    4| -12V
+       U21                             |    8| +12V
+       U21                             |    4| -12V
+       U20                             |    8| +12V
+       U20                             |    4| -12V
+       U19                             |    8| +12V
+       U19                             |    4| -12V
+       U18                             |    8| +12V
+       U18                             |    4| -12V
+       U17                             |    8| +12V
+       U17                             |    4| -12V
+       U16                             |    8| +12V
+       U16                             |    4| -12V
+       U15                             |    8| +12V
+       U15                             |    4| -12V
+       U14                             |    8| +12V
+       U14                             |    4| -12V
+       U13                             |    8| +12V
+       U13                             |    4| -12V
+       U12                             |    8| +12V
+       U12                             |    4| -12V
+       U11                             |    8| +12V
+       U11                             |    4| -12V
+       U10                             |    8| +12V
+       U10                             |    4| -12V
+ Part 39030013                         |
+       U42                             |    8| +12V_DSP
+       U42                             |    4| GND
+       U41                             |    8| +12V_DSP
+       U41                             |    4| GND
+       U40                             |    8| +12V
+       U40                             |    4| -12V
+       U39                             |    8| +12V
+       U39                             |    4| -12V
+       U38                             |    8| +12V
+       U38                             |    4| -12V
+       U37                             |    8| +12V
+       U37                             |    4| -12V
+       U36                             |    8| +12V
+       U36                             |    4| -12V
+       U35                             |    8| +12V
+       U35                             |    4| -12V
+       U34                             |    8| +12V
+       U34                             |    4| -12V
+       U33                             |    8| +12V
+       U33                             |    4| -12V
+ Part 38090062                         |
+       U55                             |    8| +5V_para
+       U55                             |    5| GND_para
+ Part 36020349                         |
+       U48                             |   13| <unconnected pin>
+       U48                             |   16| <unconnected pin>
+       U47                             |   13| <unconnected pin>
+       U47                             |   16| <unconnected pin>
+       U46                             |   13| <unconnected pin>
+       U46                             |   16| <unconnected pin>
+       U45                             |   13| <unconnected pin>
+       U45                             |   16| <unconnected pin>
+       U44                             |   13| <unconnected pin>
+       U44                             |   16| <unconnected pin>
+       U43                             |   13| <unconnected pin>
+       U43                             |   16| <unconnected pin>
+ Part 36020209                         |
+       U2                              |   20| +3.3V
+       U2                              |   10| GND
+       U1                              |   20| +3V3_ref
+       U1                              |   10| GND
+ Part 09040627                         |
+       T1                              |    2| <unconnected pin>
+       T1                              |    3| <unconnected pin>
