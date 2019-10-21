@@ -4,7 +4,6 @@ import com.jacob.com.*;
 //import com.sun.star.uno.XComponentContext;
 
 import MGCPCB.*;
-import MGCPCBAutomationLicensing.*;
 import java.io.*;
 
 public class OOBoM {
@@ -13,7 +12,7 @@ public class OOBoM {
 	 * @param args
 	 * @throws FileNotFoundException 
 	 */
-	public static void main(String[] args) throws FileNotFoundException {
+public static void main(String[] args) throws FileNotFoundException {
 		System.runFinalizersOnExit(true);
 		// open the PCB document
 		ExpeditionPCBApplication pcbapp = new ExpeditionPCBApplication();
