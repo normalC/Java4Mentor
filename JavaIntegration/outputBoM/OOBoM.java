@@ -32,8 +32,10 @@ public class OOBoM {
 		System.out.println(pcbdoc.IMGCPCBDocument_getFullName());
 			
 		int key = pcbdoc.IMGCPCBDocument_Validate(0);
+		System.out.println(key);
 		MGCPCBAutomationLicensing.Application pLicenseServer = new MGCPCBAutomationLicensing.Application();
 		int licenseToken = pLicenseServer.IApplication_GetToken(key);
+		System.out.println(licenseToken);
 		pcbdoc.IMGCPCBDocument_Validate(licenseToken);
 		pcbapp.IMGCPCBApplication_LockServer(false);
 		
@@ -64,7 +66,8 @@ public class OOBoM {
 			e.printStackTrace(System.err);
 		}
 	    fw.close();
-		
+	    
+	    
 		pcbapp.IMGCPCBApplication_UnlockServer(false);
 		pcbdoc.IMGCPCBDocument_Close(false);
 		pcbdoc = null;
