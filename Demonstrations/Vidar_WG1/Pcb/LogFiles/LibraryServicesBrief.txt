@@ -1,7 +1,0 @@
-
-                      Library Services Warnings and Errors
-                      ------------------------------------
-
-                        02:42 PM Thursday, June 23, 2016
-Job Name: F:\2016\SER75015K\SER75015K-D1\SER75015K-D1\PCB\Work\Layout_Temp\Design.llm
-
